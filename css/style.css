@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.eventType {
+  background: black;
+  color: white;
+  padding: 10px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.remove-btn {
+  background-color: grey;
+  padding: 5px;
+  color: black;
+  text-decoration: none;
+}
